@@ -21,3 +21,10 @@ let resta = function(a,b){
 }
 
 // fin de resta
+
+// multiplicación
+let multiplicacion = function(a,b){
+    console.log("El resultado de la multiplicacion es: " + (a*b) );
+}
+// fin de multiplicación
+
