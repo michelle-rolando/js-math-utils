@@ -28,3 +28,8 @@ let multiplicacion = function(a,b){
 }
 // fin de multiplicación
 
+// división
+let multiplicacion = function(a,b){
+    console.log("El resultado de la multiplicacion es: " + (a/b) );
+}
+// fin de división
