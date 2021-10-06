@@ -44,3 +44,11 @@ let multiplicacion = function(a,b){
     console.log("El resultado de la multiplicacion es: " + (a/b) );
 }
 // fin de división
+
+
+// Es Menor
+
+function esMenor(num1, num2){
+    if(num1<num2) return num1
+    return num2
+}
