@@ -9,8 +9,11 @@ console.log("tercer commit");
 
 // suma 
 
-let suma = function(a,b){
-    console.log("El resultado de la suma es: " + (a+b) );
+function sumar(numero1,numero2){
+    const resultado = numero1 + numero2;
+    console.log(resultado);
+    return resultado;
+    // console.log("El resultado de la suma es: " + (a+b) );
 }
 
 // fin de suma
