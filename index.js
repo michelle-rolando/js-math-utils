@@ -52,3 +52,10 @@ function esMenor(num1, num2){
     if(num1<num2) return num1
     return num2
 }
+
+// potencia
+
+function potencia(num1, num2){
+    let potencia= Math.pow(num1, num2)
+    return potencia
+}
